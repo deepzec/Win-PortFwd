@@ -15,5 +15,5 @@ or
 ![alt text](https://github.com/deepzec/Win-PortFwd/blob/master/win-portfwd.PNG "Win-Portfwd")
 
 
-#### Note: This script require admin privileges to run, you will get a UAC prompt if you are running this script under normal user privileges.
+#### Note: This script require admin privileges to run, this script will automatically try to elevate the privilges if you are running this script under normal user privileges.
 
