@@ -1,5 +1,5 @@
 # Win-PortFwd
-Setup windows port forwarding using native netsh command
+Powershell script to setup windows port forwarding using native netsh client
 
 ### Install:
 > git clone https://github.com/deepzec/Win-PortFwd.git
