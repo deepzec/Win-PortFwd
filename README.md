@@ -21,3 +21,5 @@ or
 
 #### Note: This script require admin privileges to run, this script will automatically try to elevate the privilges if you are running this script under normal user privileges.
 
+#### Author : Deepu TV ; Feel free to contact me @twitter.com/DeepZec 
+
